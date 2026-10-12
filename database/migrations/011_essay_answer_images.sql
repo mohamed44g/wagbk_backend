@@ -1,0 +1,2 @@
+ALTER TABLE answers
+ADD COLUMN IF NOT EXISTS essay_image_url TEXT;
